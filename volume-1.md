@@ -6,9 +6,6 @@
 
 ---
 
-### Copyright Notice
-
-© 2026. This training manual is an original work created for self-study purposes. All commands, YAML examples, diagrams, and explanations in this document have been written from scratch. Kubernetes®, Docker®, and related marks are trademarks of their respective owners (The Linux Foundation, Docker Inc.). This manual is not affiliated with or endorsed by any of these organizations.
 
 ---
 
